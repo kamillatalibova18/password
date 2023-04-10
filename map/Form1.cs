@@ -32,6 +32,8 @@ namespace map
         {
             label2.Text = "МЦК Лужники";
             label3.Text = "Особенности:\n\n Стенд питья \n\n Энергетические батончики ";
+            pictureBox17.Visible = false;
+
         }
 
         private void label2_Click(object sender, EventArgs e)
